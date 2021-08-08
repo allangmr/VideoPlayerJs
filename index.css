@@ -4,7 +4,7 @@ body{
   font-family: 'PT Sans Narrow', sans-serif;
 }
 .wrapper{
-  max-inline-size: 1200px;
+  max-inline-size: 1000px;
   margin:auto;
   height: 95vh;
   display: flex;
