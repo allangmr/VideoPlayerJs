@@ -4,11 +4,14 @@ body{
   font-family: 'PT Sans Narrow', sans-serif;
 }
 .wrapper{
-  max-inline-size: 900px;
+  max-inline-size: 1200px;
   margin:auto;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .player{
-  margin-block-start: 100px;
   position: relative;
 }
 .player video{
